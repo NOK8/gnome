@@ -1,0 +1,1 @@
+Ubuntu is a desktop operating system that powers millions of PCs and laptops around the world. The latest stable release, Ubuntu 23.10, provides GNOME 45, while the latest long-term support (LTS) release, Ubuntu 22.04 LTS, provides GNOME 42, both featuring Ubuntu’s unique look and feel.
